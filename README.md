@@ -1,7 +1,10 @@
 # ENSEA_Paint_&_Games
 in JAVA
 
-![Screenshot](../img/paint.png)
+<p align="center">
+  <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/paint.png" alt="Paint" width="600" />
+</p>
+
 # Fonctionnement global
 1. **Main (Main.java)** :
    - Nouvelle instance de la fenêtre principale (`Window`).
@@ -74,3 +77,12 @@ Le flux d'exécution typique peut être décrit comme suit :
 
 Ajouts de 2 types de jeu liés à Paint : **Ou est Charlie ?** et **Les 7 Différences**
 
+<p align="center">
+  <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/OEC.png" alt="Paint" width="600" />
+</p>
+<p align="center">
+  <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/HM1.png" alt="Paint" width="600" />
+</p>
+<p align="center">
+  <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/HM2.png" alt="Paint" width="600" />
+</p>
