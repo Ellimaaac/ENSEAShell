@@ -1,6 +1,7 @@
 # ENSEA_Paint_&_Games
 in JAVA
 
+![Screenshot](../img/paint.png)
 # Fonctionnement global
 1. **Main (Main.java)** :
    - Nouvelle instance de la fenêtre principale (`Window`).
@@ -72,4 +73,4 @@ Le flux d'exécution typique peut être décrit comme suit :
 # Jeux 
 
 Ajouts de 2 types de jeu liés à Paint : **Ou est Charlie ?** et **Les 7 Différences**
-;PNT
+
