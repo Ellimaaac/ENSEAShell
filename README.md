@@ -76,6 +76,7 @@ Le flux d'exécution typique peut être décrit comme suit :
 # Jeux 
 
 Ajouts de 2 types de jeu liés à Paint : **Ou est Charlie ?** et **Les 7 Différences**
+Accessible dans le menu **Help**
 
 <p align="center">
   <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/OEC.png" alt="Paint" width="600" />
