@@ -31,8 +31,8 @@ in JAVA
 Le flux d'exécution typique peut être décrit comme suit :
 
 - L'utilisateur interagit avec l'interface utilisateur dans la fenêtre principale pour choisir le type de forme, la couleur, et d'autres propriétés.
-- Lorsque l'utilisateur clique sur le panneau de dessin, une nouvelle instance de la forme sélectionnée est créée et ajoutée à la liste de formes du panneau de dessin.
-- Le panneau de dessin réagit aux interactions de l'utilisateur en redessinant les formes à l'écran.
+- Lorsque l'utilisateur clique sur le panneau, une nouvelle instance de la forme sélectionnée est créée et ajoutée à la liste de formes du panneau de dessin.
+- Le paint interagit de l'utilisateur en redessinant les formes à l'écran.
 - L'utilisateur peut sauvegarder et charger des dessins à partir de fichiers.
 
 # Fonctionnement de chaque class
