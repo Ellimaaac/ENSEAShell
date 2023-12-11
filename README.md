@@ -69,5 +69,7 @@ Le flux d'exécution typique peut être décrit comme suit :
    - **Fonctionnement** : Fenêtre principale de l'application qui contient le panneau de dessin (`Drawing`).
    - **Lien avec les autres classes** : Contient un objet `Drawing` pour gérer le dessin. Crée une interface utilisateur permettant d'interagir avec le panneau de dessin.
 
-Ces classes travaillent ensemble pour créer une application de dessin où l'utilisateur peut créer, modifier, sauvegarder et charger des formes géométriques. La structure du code reflète une hiérarchie d'héritage et d'utilisation de classes pour encapsuler différentes fonctionnalités.
+# Jeux 
 
+Ajouts de 2 types de jeu liés à Paint : **Ou est Charlie ?** et **Les 7 Différences**
+;PNT
