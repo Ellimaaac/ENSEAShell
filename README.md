@@ -1,6 +1,5 @@
 # ENSEA_Paint_&_Games
 in JAVA
-
 <p align="center">
   <img src="https://github.com/Ellimaaac/ENSEA_Paint/blob/main/img/paint.png" alt="Paint" width="600" />
 </p>
